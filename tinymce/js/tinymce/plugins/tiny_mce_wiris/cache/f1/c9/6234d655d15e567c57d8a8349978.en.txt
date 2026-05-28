@@ -1,0 +1,1 @@
+{"result":{"text":"root index 8 of a to the power of m end root equals square root of italic a to the power of italic n end root"},"status":"ok"}

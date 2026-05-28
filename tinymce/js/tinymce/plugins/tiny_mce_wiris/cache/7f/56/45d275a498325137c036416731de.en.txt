@@ -1,0 +1,1 @@
+{"result":{"text":"f open parentheses x close parentheses equals x squared minus sign 6 x plus 9"},"status":"ok"}

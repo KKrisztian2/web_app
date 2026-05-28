@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style fraction numerator open vertical bar a close vertical bar over denominator a end fraction end style"},"status":"ok"}

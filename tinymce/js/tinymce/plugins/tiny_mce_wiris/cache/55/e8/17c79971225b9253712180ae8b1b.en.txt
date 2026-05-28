@@ -1,0 +1,1 @@
+{"result":{"text":"open curly brackets table attributes columnalign left end attributes row cell x y equals negative 12 end cell row cell x left parenthesis 2 y minus 1 right parenthesis equals negative 18 end cell end table close"},"status":"ok"}

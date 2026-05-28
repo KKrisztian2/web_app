@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator open vertical bar a close vertical bar over denominator a end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses a to the power of m close parentheses to the power of italic n equals italic a to the power of 4"},"status":"ok"}

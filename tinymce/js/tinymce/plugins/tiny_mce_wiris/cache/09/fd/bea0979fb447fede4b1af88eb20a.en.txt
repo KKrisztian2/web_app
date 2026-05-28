@@ -1,0 +1,1 @@
+{"result":{"text":"V equals 2 πR squared"},"status":"ok"}

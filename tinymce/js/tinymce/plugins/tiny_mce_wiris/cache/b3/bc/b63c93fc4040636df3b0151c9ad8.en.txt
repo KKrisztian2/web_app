@@ -1,0 +1,1 @@
+{"result":{"text":"c squared equals a squared plus b squared minus sign 2 ab middle dot left parenthesis minus sign 1 half right parenthesis"},"status":"ok"}

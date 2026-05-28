@@ -1,0 +1,1 @@
+{"result":{"text":"1 minus sin squared alpha minus cos squared alpha equals"},"status":"ok"}

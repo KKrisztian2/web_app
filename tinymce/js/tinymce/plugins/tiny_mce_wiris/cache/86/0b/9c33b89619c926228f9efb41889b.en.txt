@@ -1,0 +1,1 @@
+{"result":{"text":"2 x minus sign 8"},"status":"ok"}

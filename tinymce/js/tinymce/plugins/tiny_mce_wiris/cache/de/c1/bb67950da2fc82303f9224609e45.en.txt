@@ -1,0 +1,1 @@
+{"result":{"text":"1 plus cos open parentheses 2 alpha close parentheses"},"status":"ok"}

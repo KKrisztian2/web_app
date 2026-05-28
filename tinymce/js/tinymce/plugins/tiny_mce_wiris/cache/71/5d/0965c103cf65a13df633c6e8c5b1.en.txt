@@ -1,0 +1,1 @@
+{"result":{"text":"l equals 4 r"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"log subscript 4 open parentheses x minus 1 close parentheses equals 3"},"status":"ok"}

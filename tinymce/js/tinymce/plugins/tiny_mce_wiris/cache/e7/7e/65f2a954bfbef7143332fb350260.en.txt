@@ -1,0 +1,1 @@
+{"result":{"text":"a to the power of m middle dot a to the power of n equals a to the power of 4"},"status":"ok"}

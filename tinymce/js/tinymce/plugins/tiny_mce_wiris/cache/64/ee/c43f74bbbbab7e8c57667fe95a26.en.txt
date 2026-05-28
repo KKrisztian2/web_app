@@ -1,0 +1,1 @@
+{"result":{"text":"y apostrophe equals minus sign cos open parentheses x close parentheses bond sin open parentheses x close parentheses and x"},"status":"ok"}

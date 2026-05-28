@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis x squared plus 64 right parenthesis left parenthesis x minus sign 5 right parenthesis greater than 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"log subscript 2 open parentheses straight x close parentheses less than b"},"status":"ok"}

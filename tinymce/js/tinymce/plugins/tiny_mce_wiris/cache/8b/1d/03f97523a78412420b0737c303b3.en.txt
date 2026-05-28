@@ -1,0 +1,1 @@
+{"result":{"text":"fourth root of x equals 1"},"status":"ok"}

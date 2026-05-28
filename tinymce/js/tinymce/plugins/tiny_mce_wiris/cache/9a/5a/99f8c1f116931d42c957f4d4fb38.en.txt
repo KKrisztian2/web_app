@@ -1,0 +1,1 @@
+{"result":{"text":"log subscript 2 x less than b"},"status":"ok"}

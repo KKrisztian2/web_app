@@ -1,0 +1,1 @@
+{"result":{"text":"2 cos squared alpha"},"status":"ok"}

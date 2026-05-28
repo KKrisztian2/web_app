@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis x subscript 0 semicolon y subscript 0 right parenthesis"},"status":"ok"}

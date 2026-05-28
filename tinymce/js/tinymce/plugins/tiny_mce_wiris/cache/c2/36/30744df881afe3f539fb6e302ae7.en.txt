@@ -1,0 +1,1 @@
+{"result":{"text":"110 to the power of ring operator"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 5 semicolon space 8 right parenthesis"},"status":"ok"}

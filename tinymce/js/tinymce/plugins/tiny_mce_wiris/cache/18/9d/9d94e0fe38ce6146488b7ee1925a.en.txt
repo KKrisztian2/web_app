@@ -1,0 +1,1 @@
+{"result":{"text":"negative 1 half times 1 half"},"status":"ok"}

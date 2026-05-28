@@ -1,0 +1,175 @@
+/* ======= ALAP TARTALMI SZERKEZET ======= */
+section {
+    width: 85%;
+    background-color: #fff;
+    padding: 20px;
+    margin: 50px auto 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+/* ======= SZŰRŐ BLOKK (külön dobozban felül) ======= */
+#szuro-blokk {
+    width: 85%;
+    background-color: #f9fff9;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px solid #00cc66;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.szuro-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.szuro-container label {
+    font-weight: bold;
+    color: #003300;
+}
+
+.szuro-container select,
+.szuro-container button {
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    transition: all 0.2s ease;
+}
+
+.szuro-container select:hover,
+.szuro-container button:hover {
+    background-color: #e6ffe6;
+    border-color: #00cc66;
+}
+
+.szuro-container button {
+    background-color: #00cc66;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.szuro-container button:hover {
+    background-color: #00b359;
+}
+
+#kereses {
+    padding: 6px 10px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+#kereses:focus {
+    border-color: #2B83D3;
+    outline: none;
+    box-shadow: 0 0 4px rgba(43, 131, 211, 0.4);
+}
+
+/* ======= EREDMÉNYEK GRID ======= */
+#eredmenyek {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* ======= EGY EREDMÉNYKÁRTYA ======= */
+.eredmeny {
+    flex: 1 1 calc(25% - 20px); /* 4 oszlop */
+    max-width: calc(25% - 20px);
+    background-color: #fff;
+    border: 5px ridge #00cc66;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.eredmeny:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* ======= FEJLÉC ÉS TARTALOM ======= */
+.fejlec {
+    background-color: #C9FAC8;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.eredmeny h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #006633;
+}
+
+.eredmeny hr {
+    width: 60%;
+    margin: 5px auto;
+    border-top: 1px solid #000;
+}
+
+.eredmeny p {
+    text-align: center;
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+/* ======= TANÁRI DIÁK BLOKK ======= */
+.diak-blokk {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.diak-blokk h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #004d26;
+}
+
+/* ======= CÍMEK ======= */
+h2 {
+    text-align: center;
+    margin: 20px auto;
+    color: #003300;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* ======= RESZPONZÍVITÁS ======= */
+
+/* Tableten (max 1000px) → 2 oszlop */
+@media (max-width: 1000px) {
+    .eredmeny {
+        flex: 1 1 calc(45% - 20px);
+        max-width: calc(45% - 20px);
+    }
+}
+
+/* Mobilon (max 600px) → 1 oszlop + szűrő függőleges */
+@media (max-width: 600px) {
+    .eredmeny {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+
+    .szuro-container {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+    }
+
+    .szuro-container select,
+    .szuro-container button {
+        width: 100%;
+    }
+}

@@ -1,0 +1,1 @@
+{"result":{"text":"y double bond sin open parentheses x close parentheses bond cos open parentheses x close parentheses plus 1"},"status":"ok"}

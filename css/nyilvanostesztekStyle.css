@@ -1,0 +1,64 @@
+body > section {
+	width: 85%;
+	background-color: white;
+	padding-top: 25px;
+	margin: 50px auto 0;
+}
+
+#kesz_feladatsorok {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 15px; 
+	margin: 15px 80px;
+}
+
+.feladatsor-card {
+	background-color: #4CA46B;
+	border-radius: 8px;
+	text-align: center;
+	padding: 20px 10px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+	transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feladatsor-card a {
+	display: block;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.feladatsor-card a:hover {
+	color: #032E01;
+}
+
+.feladatsor-card:hover {
+	transform: translateY(-5px);
+	box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.leiras {
+	width: 80%;
+	background-color: inherit;
+	margin: 0 auto;
+	line-height: 1.5;
+	padding-bottom: 25px;
+	text-align: center;
+}
+
+#kesz_feladatsorok + .leiras {
+	margin-top: 30px;
+	font-style: italic;
+}
+
+@media (max-width: 1000px) {
+	#kesz_feladatsorok {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (max-width: 600px) {
+	#kesz_feladatsorok {
+		grid-template-columns: 1fr;
+	}
+}

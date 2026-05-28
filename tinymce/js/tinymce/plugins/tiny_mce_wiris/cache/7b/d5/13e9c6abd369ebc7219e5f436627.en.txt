@@ -1,0 +1,1 @@
+{"result":{"text":"a to the power of n over a to the power of m equals 1 over italic a to the power of 4"},"status":"ok"}

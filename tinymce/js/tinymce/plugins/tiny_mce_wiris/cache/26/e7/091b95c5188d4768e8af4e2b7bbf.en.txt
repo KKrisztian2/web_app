@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 0 semicolon space 2 to the power of b right parenthesis"},"status":"ok"}

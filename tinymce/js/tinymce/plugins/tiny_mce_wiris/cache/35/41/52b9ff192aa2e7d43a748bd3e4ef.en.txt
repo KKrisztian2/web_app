@@ -1,0 +1,1 @@
+{"result":{"text":"display style 10 h r n"},"status":"ok"}

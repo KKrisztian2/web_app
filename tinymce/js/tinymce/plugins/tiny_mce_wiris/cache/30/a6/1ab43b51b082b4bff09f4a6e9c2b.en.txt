@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 1969"},"status":"ok"}

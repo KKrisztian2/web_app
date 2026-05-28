@@ -1,0 +1,1 @@
+{"result":{"text":"2 to the power of 2 x end exponent equals 1 over 2 cubed"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C measured angle equals 90"},"status":"ok"}

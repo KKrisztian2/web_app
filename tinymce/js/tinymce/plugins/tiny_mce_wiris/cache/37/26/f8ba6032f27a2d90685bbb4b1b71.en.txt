@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a squared plus 16 over denominator a minus 4 end fraction minus fraction numerator 8 a over denominator a minus 4 end fraction"},"status":"ok"}

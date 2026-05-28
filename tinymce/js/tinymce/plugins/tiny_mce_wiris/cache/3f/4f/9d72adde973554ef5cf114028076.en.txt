@@ -1,0 +1,1 @@
+{"result":{"text":"y space equals space 1 space minus space x squared"},"status":"ok"}

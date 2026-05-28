@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis minus sign infinity semicolon space b right parenthesis"},"status":"ok"}
